@@ -1,0 +1,13 @@
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\bin\Debug\netcoreapp3.1\VotingCalculator.exe
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\bin\Debug\netcoreapp3.1\VotingCalculator.deps.json
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\bin\Debug\netcoreapp3.1\VotingCalculator.runtimeconfig.json
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\bin\Debug\netcoreapp3.1\VotingCalculator.runtimeconfig.dev.json
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\bin\Debug\netcoreapp3.1\VotingCalculator.dll
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\bin\Debug\netcoreapp3.1\VotingCalculator.pdb
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\obj\Debug\netcoreapp3.1\VotingCalculator.csprojAssemblyReference.cache
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\obj\Debug\netcoreapp3.1\VotingCalculator.AssemblyInfoInputs.cache
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\obj\Debug\netcoreapp3.1\VotingCalculator.AssemblyInfo.cs
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\obj\Debug\netcoreapp3.1\VotingCalculator.csproj.CoreCompileInputs.cache
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\obj\Debug\netcoreapp3.1\VotingCalculator.dll
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\obj\Debug\netcoreapp3.1\VotingCalculator.pdb
+D:\Documents\University\Year 1\Object Oriented Programming\Assignment 1\VotingCalculator\VotingCalculator\VotingCalculator\obj\Debug\netcoreapp3.1\VotingCalculator.genruntimeconfig.cache
