@@ -8,11 +8,14 @@ namespace VotingCalculator
     {
         static void Main(string[] args)
         {
-            string textFile = File.ReadAllText("Assessment1Data.txt");
+            // read assessment data file, access Extractor and DHondt classes
+            System.IO.StreamReader textFile = new System.IO.StreamReader(@"Assessment1Data.txt");
             Extractor data = new Extractor();
-            //List<Party> partyList = Extractor.Extract(textFile);
-            DHondt x = new DHondt();
-            DHondt.Calculate(data, textFile);
+            DHondt Calculator = new DHondt();
+
+            // calculate final results and output them to console
+            var (constituencyName, electorals) = Calculator.Calculate(data, textFile);
+            Calculator.OutputToConsole(constituencyName, electorals);
         }
     }
 }
